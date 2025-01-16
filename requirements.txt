@@ -1,4 +1,2 @@
 notebook
 pandas
-networkx
-neo4j
