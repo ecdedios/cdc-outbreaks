@@ -1,4 +1,4 @@
-NORS Dataset Exploration
+# NORS Dataset Exploration
 
 > Exploration of the National Outbreak Reporting System (NORS) dataset using Python and a Microsoft Power BI dashboard.
 
@@ -8,6 +8,8 @@ NORS Dataset Exploration
 
 ## Dashboard
 
+![NORS View CDC Outbreaks Power BI Dashboard](https://github.com/ecdedios/cdc-outbreaks/blob/main/viz/cdc-outbreaks-overview.png)
+
 [Link to the Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDBkMmE4NDctODczOC00ZDBiLTgxMjEtYTZiMzRmYjI1NDZlIiwidCI6IjAwZmI2OGUxLWQ5ZTktNGZiOC04MzdjLTNhMzcxMmYyZGNlYiJ9&pageName=bb4ba3583d7580451c61)
 
 ## Usage
@@ -16,7 +18,7 @@ Some technologies used:
 
 - jupyter notebook
 - pandas
-- matplotlib
+- Power BI
 
 To see the project in action, open and run the notebooks.
 
