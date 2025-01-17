@@ -20,7 +20,7 @@ Some technologies used:
 - pandas
 - Power BI
 
-To see the project in action, open and run the notebooks.
+To see the project in action, run the notebooks and interact with the dashboard.
 
 ## Meta
 
