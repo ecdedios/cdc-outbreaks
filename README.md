@@ -6,6 +6,10 @@ NORS Dataset Exploration
 
 [NORS Dataset](https://data.cdc.gov/Foodborne-Waterborne-and-Related-Diseases/NORS/5xkq-dg7x/about_data)
 
+## Dashboard
+
+[Link to the Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDBkMmE4NDctODczOC00ZDBiLTgxMjEtYTZiMzRmYjI1NDZlIiwidCI6IjAwZmI2OGUxLWQ5ZTktNGZiOC04MzdjLTNhMzcxMmYyZGNlYiJ9&pageName=bb4ba3583d7580451c61)
+
 ## Usage
 
 Some technologies used:
