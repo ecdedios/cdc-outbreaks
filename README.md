@@ -10,7 +10,7 @@
 
 ![NORS View CDC Outbreaks Power BI Dashboard](https://github.com/ecdedios/cdc-outbreaks/blob/main/viz/cdc-outbreaks-overview.png)
 
-[Link to the Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2MyYmNiMTktNGIzYy00MDFiLTg0ZTMtN2U0MTRjY2I0NmYyIiwidCI6IjAwZmI2OGUxLWQ5ZTktNGZiOC04MzdjLTNhMzcxMmYyZGNlYiJ9&pageName=bb4ba3583d7580451c61)
+[Link to the Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzYwZGFmNjYtODNlMS00NWZhLTk2ZjItODhlMjk1NWIxYjA2IiwidCI6IjAwZmI2OGUxLWQ5ZTktNGZiOC04MzdjLTNhMzcxMmYyZGNlYiJ9&embedImagePlaceholder=true)
 
 ## Usage
 
