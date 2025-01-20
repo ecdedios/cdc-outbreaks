@@ -12,6 +12,8 @@
 
 [Link to the Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzYwZGFmNjYtODNlMS00NWZhLTk2ZjItODhlMjk1NWIxYjA2IiwidCI6IjAwZmI2OGUxLWQ5ZTktNGZiOC04MzdjLTNhMzcxMmYyZGNlYiJ9&embedImagePlaceholder=true)
 
+[Link to the Original Dashboard by CDC](https://www.cdc.gov/ncezid/dfwed/BEAM-dashboard.html)
+
 ## Usage
 
 Some technologies used:
