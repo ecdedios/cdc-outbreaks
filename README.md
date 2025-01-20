@@ -12,7 +12,7 @@
 
 [Link to the Power BI Dashboard - mirror](https://app.powerbi.com/view?r=eyJrIjoiNzYwZGFmNjYtODNlMS00NWZhLTk2ZjItODhlMjk1NWIxYjA2IiwidCI6IjAwZmI2OGUxLWQ5ZTktNGZiOC04MzdjLTNhMzcxMmYyZGNlYiJ9)
 
-[Link to the Power BI Dashboard - minimalist (data-to-ink ratio)](https://app.powerbi.com/groups/me/reports/da07af82-1930-43c9-b0ec-204cba1f02e4/bb4ba3583d7580451c61)
+[Link to the Power BI Dashboard - minimalist (data-to-ink ratio)](https://app.powerbi.com/view?r=eyJrIjoiZjk1OWUwZDMtNGIyYS00NzQyLWFhN2YtMmQwNzNlN2RiOWMzIiwidCI6IjAwZmI2OGUxLWQ5ZTktNGZiOC04MzdjLTNhMzcxMmYyZGNlYiJ9)
 
 [Link to the Original Dashboard by CDC](https://www.cdc.gov/ncezid/dfwed/BEAM-dashboard.html)
 
